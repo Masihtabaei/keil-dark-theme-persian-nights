@@ -1,7 +1,7 @@
 # keil-dark-theme-persian-nights
 
 ## General Information
-Here you can find a dark theme for Keil µVision (tested on V5.37.0.0). I found some other dark themes which did not the support the Assembly editor (only C/C++). So I decied to create a theme for both editors. It currently supports following editors:
+Here you can find a dark theme for Keil µVision (tested on V5.37.0.0). I found some other dark themes that did not the support the Assembly editor (only C/C++). So I decied to create a theme for both editors. It currently supports following editors/windows:
 + Asm Editor Files
 + C/C++ Editor Files
 + UARTx Window
