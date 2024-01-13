@@ -1,10 +1,14 @@
 # keil-dark-theme-persian-nights
 
 ## General Information
-Here you can find a dark theme for Keil µVision (tested on V5.37.0.0). I found some other dark themes which did not the support the Assembly editor (only C/C++). So I decied to create a theme for both editors.
-I am an Iranian/a Persian computer science student and made this theme over the night. So I decided to call it "Persian Nights".
+Here you can find a dark theme for Keil µVision (tested on V5.37.0.0). I found some other dark themes which did not the support the Assembly editor (only C/C++). So I decied to create a theme for both editors. It currently supports following editors:
++ Asm Editor Files
++ C/C++ Editor Files
++ UARTx Window
+  
+I am an Iranian/a Persian computer science student and made this theme over the night. Therefore, I decided to call it "Persian Nights".
 
-I used everywhere the "Consolas" font. Most (not all) of the colors used are from following palettes:
+I used everywhere the "Consolas" font (size 10 as default). Most (not all) of the colors used are from following palettes:
 + https://colorhunt.co/palette/191919750e21e3651dbed754
 + https://colorhunt.co/palette/511845900c3fc70039ff5733
 + https://colorhunt.co/palette/2c36393f4e4fa27b5cdcd7c9
@@ -12,9 +16,9 @@ I used everywhere the "Consolas" font. Most (not all) of the colors used are fro
 
 ## Installation/Usage
 1. Go to C:\Keil_v5\UV4
-2. Make a backup from global.prop and global.prop.def file (if they exist)
+2. Make a backup from global.prop and global.prop.def files (if they exist)
 3. Download the global.prop from this repository (or clone the whole repository)
-4. Copy and paste it into the path mentioned in above (see first point)
+4. Copy and paste it into the path mentioned above (see first point)
 5. Close the Keil µVision and open it again
 6. Congratualtion! You are done!
 
