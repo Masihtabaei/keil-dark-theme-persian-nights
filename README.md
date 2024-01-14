@@ -25,9 +25,10 @@ I used everywhere the "Consolas" font (size 10 as default). Most (not all) of th
 **Important:** If you want to restore your old configuration (for eaxmple in the case that you got an error), you can copy and paste the backup created earlier into the same path.
 
 ## Screenshots
-![keil-dark-theme-5](https://github.com/Masihtabaei/keil-dark-theme-persian-nights/assets/40685026/1af8114e-5eaf-4b3a-ad5b-3e653493ca75)
-![keil-dark-theme-1](https://github.com/Masihtabaei/keil-dark-theme-persian-nights/assets/40685026/41a76b82-afa4-4d51-b3d0-c0c98c938462)
-![keil-dark-theme-2](https://github.com/Masihtabaei/keil-dark-theme-persian-nights/assets/40685026/aef746d6-89ac-4c76-9633-6173fc5dd598)
-![keil-dark-theme-3](https://github.com/Masihtabaei/keil-dark-theme-persian-nights/assets/40685026/e00ef3d4-32e0-4b63-990c-3ea06c274296)
-![keil-dark-theme-4](https://github.com/Masihtabaei/keil-dark-theme-persian-nights/assets/40685026/60fd6241-4540-46fb-ba7d-2d2d55a47bf2)
+![header-file-support-1](https://github.com/Masihtabaei/keil-dark-theme-persian-nights/assets/40685026/21f98f4a-9623-463c-a894-a6d56e610eaf)
+![header-file-support-2](https://github.com/Masihtabaei/keil-dark-theme-persian-nights/assets/40685026/5773df28-2e5a-45d3-8994-c759e2522f08)
+![c-file-support-2](https://github.com/Masihtabaei/keil-dark-theme-persian-nights/assets/40685026/92f7468d-22b3-4644-9173-f0deba5d779b)
+![c-file-support-1](https://github.com/Masihtabaei/keil-dark-theme-persian-nights/assets/40685026/53915dbf-60a2-4472-99d8-9724f0f9f860)
+![asm-file-support](https://github.com/Masihtabaei/keil-dark-theme-persian-nights/assets/40685026/8fa39427-a2a6-4ba2-a726-f36ee445f990)
+
 
