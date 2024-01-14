@@ -41,6 +41,6 @@ style.asm.8=font:Consolas,size:10,fore:#BED754,back:#191919
 
 # Editor Text files
 font.monospace.txt=Consolas
-style.txt.32=font:Verdana,size:10,fore:#FFFFFF,back:#191919
+style.txt.32=font:Consolas,size:10,fore:#FFFFFF,back:#191919
 
 
