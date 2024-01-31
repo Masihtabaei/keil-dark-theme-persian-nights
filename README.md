@@ -1,5 +1,11 @@
 # keil-dark-theme-persian-nights
 
+## Technologies Used
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+![Static Badge](https://img.shields.io/badge/arm_Keil_%C2%B5Vision_IDE-green?style=for-the-badge)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 ## General Information
 Here you will find a dark theme for Keil µVision (tested on V5.37.0.0). I found some other dark themes that did not the support the Assembly editor (only C/C++). So I decided to create a theme for both editors. It currently supports following editors/windows:
 + Asm Editor Files
